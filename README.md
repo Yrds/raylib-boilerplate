@@ -1,10 +1,10 @@
-#raylib-boilerplate
+# raylib-boilerplate
 
 ## Objective
 
 The main reason of this project is to provide a out-of-box environment to develop raylib games.
 
-##Requirements
+## Requirements
 
 
 Raylib - https://www.raylib.com/.
