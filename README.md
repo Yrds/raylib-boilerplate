@@ -24,4 +24,4 @@ cmake --build .
 ./myGame #test
 ```
 
-If you see a window with the text "Congrats! You created your fisrt window!", then it's everything ok
+If you see a window with the text "Congrats! You created your first window!", then it's everything ok
