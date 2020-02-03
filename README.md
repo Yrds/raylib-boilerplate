@@ -17,7 +17,7 @@ I suggest try to install first in your distro package manager before searching f
 ```bash
 git init myGame #make your own repo
 cd myGame
-git pull https://github.com/Yrds/raylib-boilerplate`
+git pull https://github.com/Yrds/raylib-boilerplate
 mkdir build
 cmake ../
 cmake --build .
