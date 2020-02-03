@@ -1,6 +1,7 @@
 # raylib-boilerplate
 
 ![WTFPL](https://img.shields.io/github/license/Yrds/raylib-boilerplate?style=flat-square)
+![Raylib](https://raw.githubusercontent.com/raysan5/raylib/master/logo/raylib_24x24.png)
 
 ## Objective
 
