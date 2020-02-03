@@ -8,7 +8,7 @@ The main reason of this project is to provide a out-of-box environment to develo
 
 
 - Raylib - https://www.raylib.com/
-- CMake - https://cmake.org/install/.
+- CMake - https://cmake.org/install/
 
 I suggest try to install first in your distro package manager before searching from pre-build binaries/compiling.
 
