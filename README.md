@@ -1,5 +1,8 @@
 # raylib-boilerplate
 
+![WTFPL](https://img.shields.io/github/license/Yrds/raylib-boilerplate?style=flat-square)
+![Raylib](https://raw.githubusercontent.com/raysan5/raylib/master/logo/raylib_24x24.png)
+
 ## Objective
 
 The main reason of this project is to provide a out-of-box environment to develop raylib games.
@@ -7,8 +10,8 @@ The main reason of this project is to provide a out-of-box environment to develo
 ## Requirements
 
 
-Raylib - https://www.raylib.com/.
-CMake - https://cmake.org/install/.
+- Raylib - https://www.raylib.com/
+- CMake - https://cmake.org/install/
 
 I suggest try to install first in your distro package manager before searching from pre-build binaries/compiling.
 
@@ -17,7 +20,7 @@ I suggest try to install first in your distro package manager before searching f
 ```bash
 git init myGame #make your own repo
 cd myGame
-git pull https://github.com/Yrds/raylib-boilerplate`
+git pull https://github.com/Yrds/raylib-boilerplate
 mkdir build
 cmake ../
 cmake --build .
