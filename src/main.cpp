@@ -1,8 +1,10 @@
 #include "raylib.h"
 #include "main.h"
+#include "Test.h"
 
-int main(void)
-{
+int main(void) {
+    Test test;
+    std::cout << test.testInclude() << std::endl;
     // Initialization
     //--------------------------------------------------------------------------------------
 
